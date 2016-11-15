@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorGeneralActionBackState">#3F51B5</color>
+    <color name="colorGeneralText">@android:color/white</color>
+    <color name="colorTabBarTextPressed">#3F51B5</color>
+    <color name="colorTabBarTextNormal">#a7a8a9</color>
+    <color name="colorOptions">#e2e2e2</color>
+    <color name="name_activity">#6e6e6e</color>
+    <color name="colorTimeTableThread">#939292</color>
+    <color name="colorToastBackground">#878787</color>
+    <color name="colorToastText">#fff</color>
+    <color name="colorGeneralWindowBackground">#3F51B5</color>
+    <color name="colorGeneraActionBackground">#f1f5f7</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#343a3d</color>
+    <color name="colorTable">#aa83f520</color>
+</resources>
